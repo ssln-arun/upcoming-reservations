@@ -10,7 +10,7 @@ Upcoming Reservations is a responsive frontend component built with React and Ta
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/271258a2-0101-4fbd-bba2-900081a86ac8" alt="Screenshot 1" width="45%" />
-  <img src="https://github.com/user-attachments/assets/271258a2-0101-4fbd-bba2-900081a86ac8" alt="Screenshot 2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/65640ded-d130-4f01-ae99-881bbb5302f2" alt="Screenshot 2" width="45%" />
 </p>
 
 ## Tech Stack
